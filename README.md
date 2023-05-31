@@ -24,7 +24,7 @@ O projeto está organizado da seguinte maneira:
 ## Como Usar
 
 1. Clone o repositório para o seu ambiente local.
-2. Execute o arquivo `questao2.py` para ver o exemplo de uso do sistema de ordenação.
+2. Execute o arquivo `questao1.py` para ver o exemplo de uso do sistema de ordenação.
 
 Certifique-se de ter o Python instalado em sua máquina.
 
