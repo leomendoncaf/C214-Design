@@ -70,6 +70,7 @@ class Sorter:
     def sort_data(self, data):
         return self.strategy.sort(data)
 
+# EXEMPLO
 data = [7, 2, 5, 1, 8, 3]
 
 sorter = Sorter(BubbleSortStrategy())
